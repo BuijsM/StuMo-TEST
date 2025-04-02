@@ -1,3 +1,8 @@
+
+# Test 123- stom 
+
+data <- as.data.frame("trees")
+
 # lekker cleanen
 
 var3 <- c(4,3,2,1,0)
@@ -10,4 +15,3 @@ var2 <- c(NA, "Man", "Vrouw", "anders", NA)
 # Test 123stom
 
 #Dit is ook een test.
-
